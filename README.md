@@ -33,4 +33,17 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img width
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=asmamajeed762-droid&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-github-readme-stats.vercel.app/api/top-langs/?username=asmamajeed762-droid&layout=compact&theme=radical" />
+</p>
+
+---
+### 🤝 Connect with me
+<p align="center">
+  <a href="https://www.linkedin.com/in/asima-majeed-5b245b40b?trk=contact-info">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:asmamajeed762@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
