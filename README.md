@@ -11,22 +11,28 @@
 </div>
 
 ---
-
 # 👩‍💻 About Me
 
-✨ Passionate **Frontend Web Developer** focused on creating clean, responsive and user-friendly web applications.
+<div align="center">
 
-🎓 **Computer Science Graduate**
+<img src="https://img.shields.io/badge/Computer%20Science%20Graduate-blue?style=for-the-badge"/>
 
-⚛️ Skilled in **HTML5, CSS3, JavaScript, React.js and Tailwind CSS**
+<img src="https://img.shields.io/badge/Frontend%20Developer-React%20%7C%20JavaScript-purple?style=for-the-badge"/>
 
-🔥 Building modern applications with **Firebase and AI technologies**
+<img src="https://img.shields.io/badge/Learning-AI%20%26%20Modern%20Web%20Apps-green?style=for-the-badge"/>
 
-🤖 Creator of **NotesMind AI** — an AI-powered notes application
+<br><br>
 
-🌱 Always learning, improving and exploring new technologies
+💻 I am a **Frontend Developer** passionate about creating modern and responsive web applications.
 
----
+⚛️ Currently improving my skills in **React.js, JavaScript, Tailwind CSS and Firebase**.
+
+🤖 Building AI-powered projects like **NotesMind AI**.
+
+🚀 Interested in learning new technologies and creating useful digital solutions.
+
+</div>
+
 
 # 🛠️ Tech Stack
 
