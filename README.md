@@ -93,44 +93,61 @@
 # ⭐ Featured Projects
 
 <div align="center">
+# ⭐ Featured Projects
 
-## 📝 NotesMind AI
+---
 
-🤖 AI-powered notes management application
+## 🤖 NotesMind AI
 
-✨ Features:
+<img src="https://img.shields.io/badge/AI%20Powered%20Notes%20Application-React%20%7C%20Firebase%20%7C%20AI-purple?style=for-the-badge"/>
 
-- 🔐 Firebase Authentication
-- 📝 Create & Manage Notes
-- 🔍 Search Notes
-- 🤖 AI Summary Feature
-- 🌙 Modern Responsive UI
-- 📱 Mobile Friendly Design
+An AI-powered notes application built to help users create, manage and organize notes with a modern user experience.
 
-🛠️ Technologies:
+### 🚀 Key Features
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/🔐%20Firebase%20Authentication-Secure%20Login-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/📝%20Notes%20Management-Create%20%26%20Organize-purple?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🤖%20AI%20Summary-Smart%20Features-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🔍%20Search%20Notes-Easy%20Access-green?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/📱%20Responsive%20UI-Modern%20Design-black?style=for-the-badge"/>
+
+</div>
+
+### 🛠️ Technologies Used
 
 React.js • Vite • Tailwind CSS • Firebase • AI Integration
-
 
 ---
 
 ## 🛒 E-Commerce Website
 
-🛍️ Responsive online shopping website
+<img src="https://img.shields.io/badge/Responsive%20Shopping%20Website-HTML%20%7C%20CSS%20%7C%20JavaScript-orange?style=for-the-badge"/>
 
-✨ Features:
+A responsive e-commerce website developed to practice frontend development and create user-friendly web interfaces.
 
-- Product Listing
-- Modern UI Design
-- Responsive Layout
+### 🚀 Key Features
 
-🛠️ Technologies:
+<div align="center">
 
-HTML5 • CSS3 • JavaScript • Bootstrap
+<img src="https://img.shields.io/badge/🛍️%20Product%20Display-Clean%20Layout-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🎨%20Modern%20UI-User%20Friendly-purple?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/📱%20Responsive%20Design-Mobile%20Friendly-green?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/⚡%20JavaScript%20Features-Interactive-orange?style=for-the-badge"/>
 
 </div>
 
----
+### 🛠️ Technologies Used
+
+HTML5 • CSS3 • JavaScript • Bootstrap
 
 # 📊 GitHub Analytics
 
