@@ -1,104 +1,250 @@
+# ⭐ Featured Projects
+
 <div align="center">
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+## 📝 NotesMind AI
 
-# Hi, I'm Asima Majeed 👋
+🤖 AI-powered notes management application
 
-### 💻 Frontend Developer | React.js | JavaScript | Tailwind CSS | Firebase | AI
+✨ Features:
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&width=550&lines=Frontend+Developer;React.js+Developer;Building+Modern+Web+Apps;Creating+AI+Powered+Projects" />
+- 🔐 Firebase Authentication
+- 📝 Create & Manage Notes
+- 🔍 Search Notes
+- 🤖 AI Summary Feature
+- 🌙 Modern Responsive UI
+- 📱 Mobile Friendly Design
+
+🛠️ Technologies:
+
+React.js • Vite • Tailwind CSS • Firebase • AI Integration
+
+
+---
+
+## 🛒 E-Commerce Website
+
+🛍️ Responsive online shopping website
+
+✨ Features:
+
+- Product Listing
+- Modern UI Design
+- Responsive Layout
+
+🛠️ Technologies:
+
+HTML5 • CSS3 • JavaScript • Bootstrap
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 📊 GitHub Analytics
 
-💻 Computer Science Graduate  
-⚛️ Frontend Developer passionate about modern web applications  
-🌱 Improving React.js, Firebase and AI development skills  
-🤖 Building AI-powered applications like **NotesMind AI**  
-🚀 Focused on creating responsive and user-friendly experiences  
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=asmamajeed762-droid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-## 🛠️ Tech Stack
+<br><br>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=asmamajeed762-droid&theme=tokyonight&hide_border=true" />
 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=cSS3&logoColor=white)
+<br><br>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmamajeed762-droid&layout=compact&theme=tokyonight&hide_border=true" />
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+</div>
 
 ---
 
-## 🧪 Testing & QA
+# 🏆 GitHub Achievements
 
-- ✅ Manual Testing
-- ✅ Bug Reporting
-- ✅ Application Testing
-- ✅ Debugging & Issue Fixing
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=asmamajeed762-droid&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
 
 ---
 
-## ⭐ Featured Project
+# 👀 Profile Visitors
 
-### 📝 NotesMind AI
+<div align="center">
 
-AI-powered notes application built with:
+<img src="https://komarev.com/ghpvc/?username=asmamajeed762-droid&label=Profile%20Views&color=blue&style=for-the-badge" />
 
-- ⚛️ React + Vite
-- 🎨 Tailwind CSS
+</div>
+
+---
+
+# 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=asmamajeed762-droid&theme=tokyo-night" />
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/asima-majeed-5b245b40b/">
+
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+
+</a>
+
+<a href="https://github.com/asmamajeed762-droid">
+
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+
+</a>
+
+<a href="mailto:asmamajeed762@gmail.com">
+
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+⭐ Thanks for visiting my profile!
+
+💻 Build • Learn • Create 🚀
+
+</div>
+# ⭐ Featured Projects
+
+<div align="center">
+
+## 📝 NotesMind AI
+
+🤖 AI-powered notes management application
+
+✨ Features:
+
 - 🔐 Firebase Authentication
-- 📝 Notes Management
+- 📝 Create & Manage Notes
+- 🔍 Search Notes
 - 🤖 AI Summary Feature
-- 📱 Responsive Modern UI
+- 🌙 Modern Responsive UI
+- 📱 Mobile Friendly Design
+
+🛠️ Technologies:
+
+React.js • Vite • Tailwind CSS • Firebase • AI Integration
+
 
 ---
 
-## 🛒 Other Project
+## 🛒 E-Commerce Website
 
-### E-Commerce Website
+🛍️ Responsive online shopping website
 
-Responsive shopping website built with:
+✨ Features:
 
-- HTML5
-- CSS3
-- JavaScript
+- Product Listing
+- Modern UI Design
+- Responsive Layout
 
----
+🛠️ Technologies:
 
-## 📊 GitHub Stats
+HTML5 • CSS3 • JavaScript • Bootstrap
 
-<img src="https://github-readme-stats.vercel.app/api?username=asmamajeed762-droid&show_icons=true&theme=tokyonight" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=asmamajeed762-droid&theme=tokyonight" />
+</div>
 
 ---
 
-## 🌐 Connect With Me
+# 📊 GitHub Analytics
 
-💼 LinkedIn:  
-https://www.linkedin.com/in/asima-majeed-5b245b40b/
+<div align="center">
 
-💻 GitHub:  
-https://github.com/asmamajeed762-droid
+<img src="https://github-readme-stats.vercel.app/api?username=asmamajeed762-droid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-📧 Email:  
-asmamajeed762@gmail.com
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=asmamajeed762-droid&theme=tokyonight&hide_border=true" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmamajeed762-droid&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=asmamajeed762-droid&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
+
+---
+
+# 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=asmamajeed762-droid&theme=tokyo-night" />
+
+</div>
+
+---
+
+# 📊 Profile Statistics
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=asmamajeed762-droid&label=Profile%20Views&color=blue&style=for-the-badge" />
+
+<img src="https://img.shields.io/github/followers/asmamajeed762-droid?label=Followers&style=for-the-badge&logo=github&color=purple" />
+
+<img src="https://img.shields.io/github/stars/asmamajeed762-droid?label=Stars&style=for-the-badge&logo=github&color=yellow" />
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/asima-majeed-5b245b40b/">
+
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+
+</a>
+
+<a href="https://github.com/asmamajeed762-droid">
+
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+
+</a>
+
+<a href="mailto:asmamajeed762@gmail.com">
+
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+⭐ Thanks for visiting my profile!
+
+💻 Build • Learn • Create 🚀
 
 </div>
